@@ -2,7 +2,7 @@
 let productos = [
 
     {
-        nombre : "",
+        nombre : "Perfume Diesel Only the Brave Tatoo",
         fotos : ["https://firebasestorage.googleapis.com/v0/b/tiendasuramc.appspot.com/o/perfume1.webp?alt=media&token=a094eeed-0a7b-44d6-b25b-aff6f69bed92", "https://firebasestorage.googleapis.com/v0/b/tiendasuramc.appspot.com/o/perfume11.webp?alt=media&token=6021a4b7-0bba-4a95-89ff-ed7964a8d014"],
         precio :250900,
         popularidad : 5,
